@@ -12,7 +12,7 @@ cd Team-12-devcareers-manage-landing-page
 
 Step 6: To start your work, work the directory that contains the project files.
 
-Step 7: git remote add upstream https://github.com/maxahmad/team-12-devcareers-mange-landing-page.git
+Step 7: git remote add upstream https://github.com/maxahmad/team-12-devcareers-manage-landing-page.git
 
 Run: git checkout -b <nameOfBranch>
 
